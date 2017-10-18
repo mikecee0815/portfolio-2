@@ -2,6 +2,10 @@ section#content{
   height: 550px;
 }
 
+.rounded-circle{
+  border:8px solid white;
+}
+
 
 
 
