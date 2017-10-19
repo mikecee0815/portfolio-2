@@ -1,9 +1,26 @@
 section#content{
-  height: 550px;
+  height: 600px;
 }
 
 .rounded-circle{
   border:8px solid white;
+}
+.contact-btn{
+  margin-top: -40px;
+}
+
+@media (min-width: 768px){
+  
+  .hero__heading--main {
+    font-size: 7.5rem;
+    font-weight: 300;
+    line-height: 1.1;
+  }
+
+}
+
+.fa .fa-heart{
+  color: red;
 }
 
 
